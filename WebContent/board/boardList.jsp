@@ -113,6 +113,9 @@
 	</c:forEach>
 		
 	</table>
+	 <form action="./boardWrite.board">
+    	<button type="submit" class="btn btn-default">WRITE</button>
+    </form>
 	</section>
 
 </body>
